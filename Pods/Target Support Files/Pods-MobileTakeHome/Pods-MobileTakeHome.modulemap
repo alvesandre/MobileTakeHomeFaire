@@ -1,0 +1,6 @@
+framework module Pods_MobileTakeHome {
+  umbrella header "Pods-MobileTakeHome-umbrella.h"
+
+  export *
+  module * { export * }
+}
